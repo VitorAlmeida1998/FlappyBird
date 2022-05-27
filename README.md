@@ -3,6 +3,6 @@ ________________________________________________________________________________
 
 Esse projeto se trata de um game desenvolvido no curso Web Moderno onde eu pratiquei a questão da manipulação de counteudos HTML atráves do DOM
 
-<div align = "center">
-  <img src="[https://imgur.com/a/FXI4Td4](https://imgur.com/gpCWJQ9)" width = "700">
+<div align="center">
+<img src="https://i.imgur.com/gpCWJQ9.png" width="800px" />
 </div>
